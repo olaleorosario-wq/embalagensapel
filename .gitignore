@@ -1,0 +1,22 @@
+# Repo público de imagens — bloqueia tudo que não seja imagem/asset
+# explicitamente permitido.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+!*.jpg
+!*.jpeg
+!*.png
+!*.webp
+!*.gif
+!*.svg
+# Subdirectories for organized assets
+!colecoes/
+!colecoes/*.jpg
+!colecoes/*.jpeg
+!colecoes/*.png
+!hp/
+!hp/*.jpg
+!hp/*.jpeg
+!hp/*.png
