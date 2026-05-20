@@ -28,3 +28,12 @@
 !brands/*.jpg
 !brands/*.jpeg
 !brands/*.png
+!fonts/
+!fonts/*.woff2
+!fonts/*.woff
+!*.webp
+!hp/*.webp
+!colecoes/*.webp
+!produtos/*.webp
+!about/*.webp
+!brands/*.webp
