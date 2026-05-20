@@ -24,3 +24,7 @@
 !about/*.jpg
 !about/*.jpeg
 !about/*.png
+!brands/
+!brands/*.jpg
+!brands/*.jpeg
+!brands/*.png
