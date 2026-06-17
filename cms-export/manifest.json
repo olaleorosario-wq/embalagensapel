@@ -1,0 +1,3379 @@
+[
+  {
+    "handle": "luva-de-borracha-forrada-descarpack",
+    "name": "Luva De Borracha Forrada DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "scraped_ab8d034d",
+    "images": [
+      {
+        "id": "original_793710d5",
+        "file": "luva-de-borracha-forrada-descarpack__original_793710d5.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814512",
+        "quality": "poor",
+        "width": 327,
+        "height": 327,
+        "is_main": false
+      },
+      {
+        "id": "original_1b058414",
+        "file": "luva-de-borracha-forrada-descarpack__original_1b058414.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814529",
+        "quality": "poor",
+        "width": 327,
+        "height": 327,
+        "is_main": false
+      },
+      {
+        "id": "original_2eaf9060",
+        "file": "luva-de-borracha-forrada-descarpack__original_2eaf9060.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814536",
+        "quality": "poor",
+        "width": 327,
+        "height": 327,
+        "is_main": false
+      },
+      {
+        "id": "original_85b0e18c",
+        "file": "luva-de-borracha-forrada-descarpack__original_85b0e18c.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 327,
+        "height": 327,
+        "is_main": false
+      },
+      {
+        "id": "scraped_ab8d034d",
+        "file": "luva-de-borracha-forrada-descarpack__scraped_ab8d034d.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283814512",
+        "quality": "warn",
+        "width": 740,
+        "height": 731,
+        "is_main": true
+      },
+      {
+        "id": "ai_gen_872e6845",
+        "file": "luva-de-borracha-forrada-descarpack__ai_gen_872e6845.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898283814512",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "luva-industrial-latex-descarpack",
+    "name": "Luva Industrial Latex DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "ai_gen_53599522",
+    "images": [
+      {
+        "id": "original_35cd1e8b",
+        "file": "luva-industrial-latex-descarpack__original_35cd1e8b.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814482",
+        "quality": "poor",
+        "width": 470,
+        "height": 330,
+        "is_main": false
+      },
+      {
+        "id": "original_f1cf5492",
+        "file": "luva-industrial-latex-descarpack__original_f1cf5492.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814499",
+        "quality": "poor",
+        "width": 470,
+        "height": 330,
+        "is_main": false
+      },
+      {
+        "id": "original_16fcebe6",
+        "file": "luva-industrial-latex-descarpack__original_16fcebe6.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814505",
+        "quality": "poor",
+        "width": 470,
+        "height": 330,
+        "is_main": false
+      },
+      {
+        "id": "original_f9b28ecf",
+        "file": "luva-industrial-latex-descarpack__original_f9b28ecf.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 470,
+        "height": 330,
+        "is_main": false
+      },
+      {
+        "id": "scraped_cd90cfa9",
+        "file": "luva-industrial-latex-descarpack__scraped_cd90cfa9.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283814482",
+        "quality": "warn",
+        "width": 740,
+        "height": 731,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_53599522",
+        "file": "luva-industrial-latex-descarpack__ai_gen_53599522.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898283814482",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "luva-industrial-vinil-sem-po-descarpack",
+    "name": "Luva Industrial Vinil Sem Po DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "scraped_b2554fa2",
+    "images": [
+      {
+        "id": "original_219f07dc",
+        "file": "luva-industrial-vinil-sem-po-descarpack__original_219f07dc.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814390",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_c521f6b3",
+        "file": "luva-industrial-vinil-sem-po-descarpack__original_c521f6b3.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814406",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_b3456de2",
+        "file": "luva-industrial-vinil-sem-po-descarpack__original_b3456de2.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814413",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_8fb0569d",
+        "file": "luva-industrial-vinil-sem-po-descarpack__original_8fb0569d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "scraped_b2554fa2",
+        "file": "luva-industrial-vinil-sem-po-descarpack__scraped_b2554fa2.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283814390",
+        "quality": "good",
+        "width": 902,
+        "height": 901,
+        "is_main": true
+      },
+      {
+        "id": "ai_gen_f57c2ad8",
+        "file": "luva-industrial-vinil-sem-po-descarpack__ai_gen_f57c2ad8.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898283814390",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "luva-industrial-vinil-com-po-descarpack",
+    "name": "Luva Industrial Vinil Com Po DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "original_4aaabf7c",
+    "images": [
+      {
+        "id": "original_deba6f45",
+        "file": "luva-industrial-vinil-com-po-descarpack__original_deba6f45.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814369",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_66041996",
+        "file": "luva-industrial-vinil-com-po-descarpack__original_66041996.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814376",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_4aaabf7c",
+        "file": "luva-industrial-vinil-com-po-descarpack__original_4aaabf7c.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": true
+      },
+      {
+        "id": "scraped_efacb5e6",
+        "file": "luva-industrial-vinil-com-po-descarpack__scraped_efacb5e6.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283814369",
+        "quality": "good",
+        "width": 902,
+        "height": 901,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "caixa-coletora-sharp-box-perfurante-cortante",
+    "name": "Caixa Coletora Sharp Box Perfurante/Cortante",
+    "brand": "",
+    "category": "Descarte de Perfurocortantes",
+    "main_id": "ai_gen_2508166c",
+    "images": [
+      {
+        "id": "original_76d64963",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__original_76d64963.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000009686",
+        "quality": "warn",
+        "width": 700,
+        "height": 700,
+        "is_main": false
+      },
+      {
+        "id": "original_8a1bc6d1",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__original_8a1bc6d1.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000025686",
+        "quality": "warn",
+        "width": 580,
+        "height": 580,
+        "is_main": false
+      },
+      {
+        "id": "original_945d2196",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__original_945d2196.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283810743",
+        "quality": "good",
+        "width": 900,
+        "height": 900,
+        "is_main": false
+      },
+      {
+        "id": "original_062386bd",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__original_062386bd.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283811795",
+        "quality": "warn",
+        "width": 667,
+        "height": 667,
+        "is_main": false
+      },
+      {
+        "id": "original_96567f89",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__original_96567f89.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "warn",
+        "width": 700,
+        "height": 700,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_ae6aaf56",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_ae6aaf56.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000009686",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_36a8aec8",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_36a8aec8.jpg",
+        "source": "ai_gen",
+        "archetype": "lifestyle",
+        "sku": "7000000009686",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_f4cbfc41",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_f4cbfc41.jpg",
+        "source": "ai_gen",
+        "archetype": "scale",
+        "sku": "7000000009686",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_9f66bc1f",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_9f66bc1f.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_2508166c",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_2508166c.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      },
+      {
+        "id": "ai_gen_8751ba2f",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_8751ba2f.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_763011ce",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_763011ce.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_24e32fb6",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__ai_gen_24e32fb6.jpg",
+        "source": "ai_gen",
+        "archetype": "lifestyle",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "uploaded_4404740b",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__uploaded_4404740b.webp",
+        "source": "uploaded",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "uploaded_acc5e07f",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__uploaded_acc5e07f.webp",
+        "source": "uploaded",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "uploaded_9dca5d82",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__uploaded_9dca5d82.webp",
+        "source": "uploaded",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "uploaded_ab3496d6",
+        "file": "caixa-coletora-sharp-box-perfurante-cortante__uploaded_ab3496d6.webp",
+        "source": "uploaded",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-200l-90112008",
+    "name": "Saco Lixo 200L (90×112×008)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_d872e214",
+    "images": [
+      {
+        "id": "original_a0af6bec",
+        "file": "saco-lixo-200l-90112008__original_a0af6bec.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000017179",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_687223ed",
+        "file": "saco-lixo-200l-90112008__original_687223ed.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000017186",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_f322647c",
+        "file": "saco-lixo-200l-90112008__original_f322647c.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_d872e214",
+        "file": "saco-lixo-200l-90112008__ai_gen_d872e214.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000017179",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      },
+      {
+        "id": "ai_gen_dc4f9caa",
+        "file": "saco-lixo-200l-90112008__ai_gen_dc4f9caa.jpg",
+        "source": "ai_gen",
+        "archetype": "apel_dimensions",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_3efc7d00",
+        "file": "saco-lixo-200l-90112008__ai_gen_3efc7d00.jpg",
+        "source": "ai_gen",
+        "archetype": "apel_hero",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_52b4815b",
+        "file": "saco-lixo-200l-90112008__ai_gen_52b4815b.jpg",
+        "source": "ai_gen",
+        "archetype": "apel_lifestyle",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-100l-75105005",
+    "name": "Saco Lixo 100L (75×105×005)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_a1f45382",
+    "images": [
+      {
+        "id": "original_d5541936",
+        "file": "saco-lixo-100l-75105005__original_d5541936.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000017162",
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "original_98d65e2e",
+        "file": "saco-lixo-100l-75105005__original_98d65e2e.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000017216",
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "original_e1047101",
+        "file": "saco-lixo-100l-75105005__original_e1047101.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_a1f45382",
+        "file": "saco-lixo-100l-75105005__ai_gen_a1f45382.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000017162",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-30l-5962005",
+    "name": "Saco Lixo 30L (59×62×005)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_24fb0ef1",
+    "images": [
+      {
+        "id": "original_083f50e8",
+        "file": "saco-lixo-30l-5962005__original_083f50e8.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000013256",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "original_d18e2834",
+        "file": "saco-lixo-30l-5962005__original_d18e2834.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000018954",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "original_4734cc91",
+        "file": "saco-lixo-30l-5962005__original_4734cc91.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_24fb0ef1",
+        "file": "saco-lixo-30l-5962005__ai_gen_24fb0ef1.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000018954",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-200l-90112012",
+    "name": "Saco Lixo 200L (90×112×012)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_d5c7bfb1",
+    "images": [
+      {
+        "id": "original_a673168f",
+        "file": "saco-lixo-200l-90112012__original_a673168f.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000013201",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_3b0370ba",
+        "file": "saco-lixo-200l-90112012__original_3b0370ba.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000013225",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_fbb673b6",
+        "file": "saco-lixo-200l-90112012__original_fbb673b6.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000017100",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "original_cb2b604d",
+        "file": "saco-lixo-200l-90112012__original_cb2b604d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_d5c7bfb1",
+        "file": "saco-lixo-200l-90112012__ai_gen_d5c7bfb1.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000017100",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-50l-6380005",
+    "name": "Saco Lixo 50L (63×80×005)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_1a2cc59a",
+    "images": [
+      {
+        "id": "original_0c20c3b3",
+        "file": "saco-lixo-50l-6380005__original_0c20c3b3.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "5860050020299",
+        "quality": "warn",
+        "width": 2427,
+        "height": 2560,
+        "is_main": false
+      },
+      {
+        "id": "original_09b1b369",
+        "file": "saco-lixo-50l-6380005__original_09b1b369.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000008535",
+        "quality": "warn",
+        "width": 2427,
+        "height": 2560,
+        "is_main": false
+      },
+      {
+        "id": "original_abaff3f8",
+        "file": "saco-lixo-50l-6380005__original_abaff3f8.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000015342",
+        "quality": "warn",
+        "width": 2427,
+        "height": 2560,
+        "is_main": false
+      },
+      {
+        "id": "original_b7f6afff",
+        "file": "saco-lixo-50l-6380005__original_b7f6afff.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000020872",
+        "quality": "warn",
+        "width": 2427,
+        "height": 2560,
+        "is_main": false
+      },
+      {
+        "id": "original_ab8e90cf",
+        "file": "saco-lixo-50l-6380005__original_ab8e90cf.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000020940",
+        "quality": "warn",
+        "width": 2427,
+        "height": 2560,
+        "is_main": false
+      },
+      {
+        "id": "original_dc1c9574",
+        "file": "saco-lixo-50l-6380005__original_dc1c9574.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "warn",
+        "width": 2427,
+        "height": 2560,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_1a2cc59a",
+        "file": "saco-lixo-50l-6380005__ai_gen_1a2cc59a.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000020872",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-30l-5962004",
+    "name": "Saco Lixo 30L (59×62×004)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_243204db",
+    "images": [
+      {
+        "id": "original_ef8e34d9",
+        "file": "saco-lixo-30l-5962004__original_ef8e34d9.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0058660004821",
+        "quality": "poor",
+        "width": 470,
+        "height": 313,
+        "is_main": false
+      },
+      {
+        "id": "original_9d587bcf",
+        "file": "saco-lixo-30l-5962004__original_9d587bcf.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0058660020272",
+        "quality": "poor",
+        "width": 470,
+        "height": 313,
+        "is_main": false
+      },
+      {
+        "id": "original_7a7d6307",
+        "file": "saco-lixo-30l-5962004__original_7a7d6307.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 470,
+        "height": 313,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_243204db",
+        "file": "saco-lixo-30l-5962004__ai_gen_243204db.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "0058660004821",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-15l-3858004",
+    "name": "Saco Lixo 15L (38×58×004)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_1d69e334",
+    "images": [
+      {
+        "id": "original_b6fcc5ae",
+        "file": "saco-lixo-15l-3858004__original_b6fcc5ae.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0058600122936",
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "original_8b969c8d",
+        "file": "saco-lixo-15l-3858004__original_8b969c8d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0058660011478",
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "original_b1252d4d",
+        "file": "saco-lixo-15l-3858004__original_b1252d4d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000023293",
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "original_25873b37",
+        "file": "saco-lixo-15l-3858004__original_25873b37.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 282,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_1d69e334",
+        "file": "saco-lixo-15l-3858004__ai_gen_1d69e334.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000023293",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-100l-75105007",
+    "name": "Saco Lixo 100L (75×105×007)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_07a871b7",
+    "images": [
+      {
+        "id": "original_a1e1a9b2",
+        "file": "saco-lixo-100l-75105007__original_a1e1a9b2.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0005860125764",
+        "quality": "poor",
+        "width": 500,
+        "height": 423,
+        "is_main": false
+      },
+      {
+        "id": "original_d7a392db",
+        "file": "saco-lixo-100l-75105007__original_d7a392db.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000013195",
+        "quality": "poor",
+        "width": 500,
+        "height": 423,
+        "is_main": false
+      },
+      {
+        "id": "original_e0309091",
+        "file": "saco-lixo-100l-75105007__original_e0309091.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000013232",
+        "quality": "poor",
+        "width": 500,
+        "height": 423,
+        "is_main": false
+      },
+      {
+        "id": "original_eb6d8943",
+        "file": "saco-lixo-100l-75105007__original_eb6d8943.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 500,
+        "height": 423,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_07a871b7",
+        "file": "saco-lixo-100l-75105007__ai_gen_07a871b7.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "0005860125764",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "luva-tpe-elastomero-term-descarpack",
+    "name": "Luva TPE Elastômero Term DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "original_b5e6d9c1",
+    "images": [
+      {
+        "id": "original_1d065793",
+        "file": "luva-tpe-elastomero-term-descarpack__original_1d065793.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283818138",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_889db819",
+        "file": "luva-tpe-elastomero-term-descarpack__original_889db819.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283818145",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_b5e6d9c1",
+        "file": "luva-tpe-elastomero-term-descarpack__original_b5e6d9c1.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": true
+      },
+      {
+        "id": "scraped_e04f4ad0",
+        "file": "luva-tpe-elastomero-term-descarpack__scraped_e04f4ad0.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283818138",
+        "quality": "good",
+        "width": 1080,
+        "height": 1080,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "pano-multiuso-descarpack",
+    "name": "Pano Multiuso DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Panos e Multiuso",
+    "main_id": "original_c9e28e60",
+    "images": [
+      {
+        "id": "original_4b8cebbf",
+        "file": "pano-multiuso-descarpack__original_4b8cebbf.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283815595",
+        "quality": "poor",
+        "width": 434,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "original_136c0f53",
+        "file": "pano-multiuso-descarpack__original_136c0f53.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283815601",
+        "quality": "poor",
+        "width": 434,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "original_e7bc7341",
+        "file": "pano-multiuso-descarpack__original_e7bc7341.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283815625",
+        "quality": "poor",
+        "width": 434,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "original_c9e28e60",
+        "file": "pano-multiuso-descarpack__original_c9e28e60.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "poor",
+        "width": 434,
+        "height": 500,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "luva-nitrilica-sem-po-descarpack",
+    "name": "Luva Nitrílica Sem Po DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "original_ac04f0cd",
+    "images": [
+      {
+        "id": "original_9e42414a",
+        "file": "luva-nitrilica-sem-po-descarpack__original_9e42414a.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814598",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_14fbed4d",
+        "file": "luva-nitrilica-sem-po-descarpack__original_14fbed4d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814604",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_c7624ea2",
+        "file": "luva-nitrilica-sem-po-descarpack__original_c7624ea2.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283816370",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_71511eb4",
+        "file": "luva-nitrilica-sem-po-descarpack__original_71511eb4.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283816387",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_178ac8bc",
+        "file": "luva-nitrilica-sem-po-descarpack__original_178ac8bc.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283816394",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_432b57b1",
+        "file": "luva-nitrilica-sem-po-descarpack__original_432b57b1.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283817582",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_bc205c4d",
+        "file": "luva-nitrilica-sem-po-descarpack__original_bc205c4d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283817605",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "original_ac04f0cd",
+        "file": "luva-nitrilica-sem-po-descarpack__original_ac04f0cd.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": true
+      },
+      {
+        "id": "scraped_3e34d5a1",
+        "file": "luva-nitrilica-sem-po-descarpack__scraped_3e34d5a1.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283816370",
+        "quality": "warn",
+        "width": 548,
+        "height": 550,
+        "is_main": false
+      },
+      {
+        "id": "uploaded_ba032d02",
+        "file": "luva-nitrilica-sem-po-descarpack__uploaded_ba032d02.jpg",
+        "source": "uploaded",
+        "archetype": "studio",
+        "sku": null,
+        "quality": "warn",
+        "width": 548,
+        "height": 550,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "luva-procedimento-latex-descarpack",
+    "name": "Luva Procedimento Latex DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "scraped_f9d6bb1f",
+    "images": [
+      {
+        "id": "original_8545a09d",
+        "file": "luva-procedimento-latex-descarpack__original_8545a09d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "poor",
+        "width": 470,
+        "height": 330,
+        "is_main": false
+      },
+      {
+        "id": "scraped_5a12f4ca",
+        "file": "luva-procedimento-latex-descarpack__scraped_5a12f4ca.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "warn",
+        "width": 740,
+        "height": 731,
+        "is_main": false
+      },
+      {
+        "id": "scraped_acc9df6c",
+        "file": "luva-procedimento-latex-descarpack__scraped_acc9df6c.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_f9d6bb1f",
+        "file": "luva-procedimento-latex-descarpack__scraped_f9d6bb1f.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      },
+      {
+        "id": "scraped_261a12d8",
+        "file": "luva-procedimento-latex-descarpack__scraped_261a12d8.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_599856b5",
+        "file": "luva-procedimento-latex-descarpack__scraped_599856b5.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_620ff847",
+        "file": "luva-procedimento-latex-descarpack__scraped_620ff847.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_63c4dc57",
+        "file": "luva-procedimento-latex-descarpack__scraped_63c4dc57.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_853de2d5",
+        "file": "luva-procedimento-latex-descarpack__scraped_853de2d5.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_50f51189",
+        "file": "luva-procedimento-latex-descarpack__scraped_50f51189.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_71ca978b",
+        "file": "luva-procedimento-latex-descarpack__scraped_71ca978b.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_328bb67c",
+        "file": "luva-procedimento-latex-descarpack__scraped_328bb67c.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_115ae5d6",
+        "file": "luva-procedimento-latex-descarpack__scraped_115ae5d6.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_bfabe078",
+        "file": "luva-procedimento-latex-descarpack__scraped_bfabe078.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_aa3bcdd8",
+        "file": "luva-procedimento-latex-descarpack__scraped_aa3bcdd8.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_3386675c",
+        "file": "luva-procedimento-latex-descarpack__scraped_3386675c.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_6583cf4d",
+        "file": "luva-procedimento-latex-descarpack__scraped_6583cf4d.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_f4e193b8",
+        "file": "luva-procedimento-latex-descarpack__scraped_f4e193b8.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_f3f38ea8",
+        "file": "luva-procedimento-latex-descarpack__scraped_f3f38ea8.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_71658139",
+        "file": "luva-procedimento-latex-descarpack__scraped_71658139.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_fd9dae12",
+        "file": "luva-procedimento-latex-descarpack__scraped_fd9dae12.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_2f5d68ee",
+        "file": "luva-procedimento-latex-descarpack__scraped_2f5d68ee.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283810378",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "alcool-liquido-46-inpm-5l-linex",
+    "name": "Álcool Líquido 46% INPM 5L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_c668a887",
+    "images": [
+      {
+        "id": "original_5a534614",
+        "file": "alcool-liquido-46-inpm-5l-linex__original_5a534614.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898996133665",
+        "quality": "poor",
+        "width": 500,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "scraped_c668a887",
+        "file": "alcool-liquido-46-inpm-5l-linex__scraped_c668a887.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898996133665",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-gel-red-gel-80-inpm-5l-linex",
+    "name": "Álcool Gel Red Gel 80% INPM 5L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_06e8b491",
+    "images": [
+      {
+        "id": "original_3b7ba0a2",
+        "file": "alcool-gel-red-gel-80-inpm-5l-linex__original_3b7ba0a2.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898996133641",
+        "quality": "poor",
+        "width": 500,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "scraped_06e8b491",
+        "file": "alcool-gel-red-gel-80-inpm-5l-linex__scraped_06e8b491.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898996133641",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-gel-70-inpm-5l-linex",
+    "name": "Álcool Gel 70% INPM 5L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_4ac52264",
+    "images": [
+      {
+        "id": "original_32b71516",
+        "file": "alcool-gel-70-inpm-5l-linex__original_32b71516.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898996133634",
+        "quality": "poor",
+        "width": 500,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "scraped_4ac52264",
+        "file": "alcool-gel-70-inpm-5l-linex__scraped_4ac52264.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898996133634",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-liquido-70-inpm-1l-linex",
+    "name": "Álcool Líquido 70% INPM 1L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_56a0d182",
+    "images": [
+      {
+        "id": "original_8d082de3",
+        "file": "alcool-liquido-70-inpm-1l-linex__original_8d082de3.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898996133610",
+        "quality": "poor",
+        "width": 341,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "scraped_56a0d182",
+        "file": "alcool-liquido-70-inpm-1l-linex__scraped_56a0d182.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898996133610",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-liquido-46-inpm-1l-linex",
+    "name": "Álcool Líquido 46% INPM 1L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_00e9961f",
+    "images": [
+      {
+        "id": "original_2cd4a633",
+        "file": "alcool-liquido-46-inpm-1l-linex__original_2cd4a633.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898996133603",
+        "quality": "good",
+        "width": 1772,
+        "height": 1772,
+        "is_main": false
+      },
+      {
+        "id": "scraped_00e9961f",
+        "file": "alcool-liquido-46-inpm-1l-linex__scraped_00e9961f.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898996133603",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-gel-70-inpm-430g-linex",
+    "name": "Álcool Gel 70% INPM 430g LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_0a4c1d20",
+    "images": [
+      {
+        "id": "original_ffcb2a9a",
+        "file": "alcool-gel-70-inpm-430g-linex__original_ffcb2a9a.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898971132188",
+        "quality": "poor",
+        "width": 300,
+        "height": 300,
+        "is_main": false
+      },
+      {
+        "id": "scraped_0a4c1d20",
+        "file": "alcool-gel-70-inpm-430g-linex__scraped_0a4c1d20.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898971132188",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-gel-red-fire-80-inpm-430g-linex",
+    "name": "Álcool Gel Red Fire 80% INPM 430g LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_d430303b",
+    "images": [
+      {
+        "id": "original_e4fa6dfe",
+        "file": "alcool-gel-red-fire-80-inpm-430g-linex__original_e4fa6dfe.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898971132089",
+        "quality": "poor",
+        "width": 300,
+        "height": 300,
+        "is_main": false
+      },
+      {
+        "id": "scraped_d430303b",
+        "file": "alcool-gel-red-fire-80-inpm-430g-linex__scraped_d430303b.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898971132089",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-gel-tampa-flip-top-70-inpm-1l-linex",
+    "name": "Álcool Gel Tampa Flip Top 70% INPM 1L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_87058d75",
+    "images": [
+      {
+        "id": "original_384deeb9",
+        "file": "alcool-gel-tampa-flip-top-70-inpm-1l-linex__original_384deeb9.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898971132058",
+        "quality": "poor",
+        "width": 341,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "scraped_87058d75",
+        "file": "alcool-gel-tampa-flip-top-70-inpm-1l-linex__scraped_87058d75.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898971132058",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-gel-valvula-pump-70-inpm-1l-linex",
+    "name": "Álcool Gel Válvula Pump 70% INPM 1L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_fd297fc8",
+    "images": [
+      {
+        "id": "original_02c35422",
+        "file": "alcool-gel-valvula-pump-70-inpm-1l-linex__original_02c35422.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898971132041",
+        "quality": "poor",
+        "width": 341,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "scraped_fd297fc8",
+        "file": "alcool-gel-valvula-pump-70-inpm-1l-linex__scraped_fd297fc8.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898971132041",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-liquido-92-8-inpm-1l-linex",
+    "name": "Álcool Líquido 92.8% INPM 1L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_528a4818",
+    "images": [
+      {
+        "id": "original_4775e26b",
+        "file": "alcool-liquido-92-8-inpm-1l-linex__original_4775e26b.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898971132027",
+        "quality": "warn",
+        "width": 654,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "scraped_528a4818",
+        "file": "alcool-liquido-92-8-inpm-1l-linex__scraped_528a4818.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898971132027",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-liquido-fresh-46-2-inpm-1l-q-otimo",
+    "name": "Álcool Líquido Fresh 46.2% INPM 1L Q-OTIMO",
+    "brand": "Q-OTIMO",
+    "category": "Álcool e Antissépticos",
+    "main_id": "original_f42064c7",
+    "images": [
+      {
+        "id": "original_f42064c7",
+        "file": "alcool-liquido-fresh-46-2-inpm-1l-q-otimo__original_f42064c7.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898946889758",
+        "quality": "poor",
+        "width": 473,
+        "height": 709,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-extra-forte-200l-preto-90115",
+    "name": "Saco Lixo Extra Forte 200L Preto (90×115)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_4689a947",
+    "images": [
+      {
+        "id": "original_e42ea68c",
+        "file": "saco-lixo-extra-forte-200l-preto-90115__original_e42ea68c.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510235",
+        "quality": "poor",
+        "width": 391,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_4689a947",
+        "file": "saco-lixo-extra-forte-200l-preto-90115__ai_gen_4689a947.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510235",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-50l-preto-6380-geraplast",
+    "name": "Saco Lixo 50L Preto (63×80) GERAPLAST",
+    "brand": "GERAPLAST",
+    "category": "Sacos de Lixo",
+    "main_id": "scraped_4cb2a9d0",
+    "images": [
+      {
+        "id": "original_ba95f4f0",
+        "file": "saco-lixo-50l-preto-6380-geraplast__original_ba95f4f0.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510136",
+        "quality": "poor",
+        "width": 352,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "scraped_4cb2a9d0",
+        "file": "saco-lixo-50l-preto-6380-geraplast__scraped_4cb2a9d0.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898424510136",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "bag-lixo-200l-preto-90115",
+    "name": "Bag Lixo 200L Preto (90×115)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_c0f86ecc",
+    "images": [
+      {
+        "id": "original_e9b83260",
+        "file": "bag-lixo-200l-preto-90115__original_e9b83260.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510105",
+        "quality": "poor",
+        "width": 352,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_c0f86ecc",
+        "file": "bag-lixo-200l-preto-90115__ai_gen_c0f86ecc.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510105",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-100l-preto-7585-geraplast",
+    "name": "Saco Lixo 100L Preto (75×85) GERAPLAST",
+    "brand": "GERAPLAST",
+    "category": "Sacos de Lixo",
+    "main_id": "scraped_792b2b37",
+    "images": [
+      {
+        "id": "original_485d66f8",
+        "file": "saco-lixo-100l-preto-7585-geraplast__original_485d66f8.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510082",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "scraped_792b2b37",
+        "file": "saco-lixo-100l-preto-7585-geraplast__scraped_792b2b37.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898424510082",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "bag-lixo-100l-preto-75105",
+    "name": "Bag Lixo 100L Preto (75×105)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_09af2c4c",
+    "images": [
+      {
+        "id": "original_54855c3a",
+        "file": "bag-lixo-100l-preto-75105__original_54855c3a.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510075",
+        "quality": "poor",
+        "width": 379,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_09af2c4c",
+        "file": "bag-lixo-100l-preto-75105__ai_gen_09af2c4c.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510075",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "bag-lixo-30l-preto-5962",
+    "name": "Bag Lixo 30L Preto (59×62)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_a4a8fa09",
+    "images": [
+      {
+        "id": "original_1489f86d",
+        "file": "bag-lixo-30l-preto-5962__original_1489f86d.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510051",
+        "quality": "poor",
+        "width": 407,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_a4a8fa09",
+        "file": "bag-lixo-30l-preto-5962__ai_gen_a4a8fa09.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510051",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "bag-lixo-15l-preto-3958",
+    "name": "Bag Lixo 15L Preto (39×58)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_a7b63b7f",
+    "images": [
+      {
+        "id": "original_54bfd3f6",
+        "file": "bag-lixo-15l-preto-3958__original_54bfd3f6.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510044",
+        "quality": "warn",
+        "width": 1179,
+        "height": 1061,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_a7b63b7f",
+        "file": "bag-lixo-15l-preto-3958__ai_gen_a7b63b7f.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510044",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-ultra-forte-100l-preto-75105",
+    "name": "Saco Lixo Ultra Forte 100L Preto (75×105)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_80ed67e8",
+    "images": [
+      {
+        "id": "original_e89c19aa",
+        "file": "saco-lixo-ultra-forte-100l-preto-75105__original_e89c19aa.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510037",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_80ed67e8",
+        "file": "saco-lixo-ultra-forte-100l-preto-75105__ai_gen_80ed67e8.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510037",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-super-forte-100l-preto-75105",
+    "name": "Saco Lixo Super Forte 100L Preto (75×105)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_9eb38aa6",
+    "images": [
+      {
+        "id": "original_fdc9faa9",
+        "file": "saco-lixo-super-forte-100l-preto-75105__original_fdc9faa9.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510020",
+        "quality": "poor",
+        "width": 428,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_9eb38aa6",
+        "file": "saco-lixo-super-forte-100l-preto-75105__ai_gen_9eb38aa6.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510020",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-extra-forte-ge-50l-preto-6380",
+    "name": "Saco Lixo Extra Forte Ge 50L Preto (63×80)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_e1ae51ad",
+    "images": [
+      {
+        "id": "original_b3051f1e",
+        "file": "saco-lixo-extra-forte-ge-50l-preto-6380__original_b3051f1e.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898424510013",
+        "quality": "warn",
+        "width": 640,
+        "height": 640,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_e1ae51ad",
+        "file": "saco-lixo-extra-forte-ge-50l-preto-6380__ai_gen_e1ae51ad.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898424510013",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-100l-preto-75105012-por-kg",
+    "name": "Saco Lixo 100L Preto (75×105×012) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_f824c26b",
+    "images": [
+      {
+        "id": "original_a1b34098",
+        "file": "saco-lixo-100l-preto-75105012-por-kg__original_a1b34098.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898217466367",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_f824c26b",
+        "file": "saco-lixo-100l-preto-75105012-por-kg__ai_gen_f824c26b.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898217466367",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-100l-preto-75105007-por-kg",
+    "name": "Saco Lixo 100L Preto (75×105×007) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_077f4484",
+    "images": [
+      {
+        "id": "original_f3b9c5d9",
+        "file": "saco-lixo-100l-preto-75105007-por-kg__original_f3b9c5d9.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898217465162",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_077f4484",
+        "file": "saco-lixo-100l-preto-75105007-por-kg__ai_gen_077f4484.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7898217465162",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "alcool-liquido-70-inpm-5l-linex",
+    "name": "Álcool Líquido 70% INPM 5L LINEX",
+    "brand": "LINEX",
+    "category": "Álcool e Antissépticos",
+    "main_id": "scraped_76dce78b",
+    "images": [
+      {
+        "id": "original_a834db5d",
+        "file": "alcool-liquido-70-inpm-5l-linex__original_a834db5d.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7890000096768",
+        "quality": "poor",
+        "width": 500,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "scraped_76dce78b",
+        "file": "alcool-liquido-70-inpm-5l-linex__scraped_76dce78b.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7890000096768",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-plastico-bd-capa-fardo-5080007-1000un",
+    "name": "Saco Plástico BD Capa Fardo (50×80×007) - 1000un",
+    "brand": "",
+    "category": "Sacos Plásticos",
+    "main_id": "ai_gen_02e49563",
+    "images": [
+      {
+        "id": "original_5bc11677",
+        "file": "saco-plastico-bd-capa-fardo-5080007-1000un__original_5bc11677.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000029462",
+        "quality": "poor",
+        "width": 500,
+        "height": 486,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_02e49563",
+        "file": "saco-plastico-bd-capa-fardo-5080007-1000un__ai_gen_02e49563.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000029462",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-ultra-forte-200l-preto-90115",
+    "name": "Saco Lixo Ultra Forte 200L Preto (90×115)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_c8abb861",
+    "images": [
+      {
+        "id": "original_0c01fd4c",
+        "file": "saco-lixo-ultra-forte-200l-preto-90115__original_0c01fd4c.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000026744",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_c8abb861",
+        "file": "saco-lixo-ultra-forte-200l-preto-90115__ai_gen_c8abb861.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000026744",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-bd-50l-branco-6380006-por-kg",
+    "name": "Saco Lixo BD 50L Branco (63×80×006) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_00c61318",
+    "images": [
+      {
+        "id": "original_2236b836",
+        "file": "saco-lixo-bd-50l-branco-6380006-por-kg__original_2236b836.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000015632",
+        "quality": "poor",
+        "width": 352,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_00c61318",
+        "file": "saco-lixo-bd-50l-branco-6380006-por-kg__ai_gen_00c61318.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000015632",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-bd-30l-branco-5962005-por-kg",
+    "name": "Saco Lixo BD 30L Branco (59×62×005) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_d7eec2d5",
+    "images": [
+      {
+        "id": "original_13b0c34f",
+        "file": "saco-lixo-bd-30l-branco-5962005-por-kg__original_13b0c34f.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000015458",
+        "quality": "poor",
+        "width": 425,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_d7eec2d5",
+        "file": "saco-lixo-bd-30l-branco-5962005-por-kg__ai_gen_d7eec2d5.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000015458",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-bd-15l-branco-3958005-por-kg",
+    "name": "Saco Lixo BD 15L Branco (39×58×005) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_14b3495d",
+    "images": [
+      {
+        "id": "original_389d222b",
+        "file": "saco-lixo-bd-15l-branco-3958005-por-kg__original_389d222b.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000015427",
+        "quality": "poor",
+        "width": 352,
+        "height": 352,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_14b3495d",
+        "file": "saco-lixo-bd-15l-branco-3958005-por-kg__ai_gen_14b3495d.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000015427",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-plastico-bd-capa-fardo-5080007-por-kg",
+    "name": "Saco Plástico BD Capa Fardo (50×80×007) - por kg",
+    "brand": "",
+    "category": "Sacos Plásticos",
+    "main_id": "ai_gen_dd7df091",
+    "images": [
+      {
+        "id": "original_afb3eb3f",
+        "file": "saco-plastico-bd-capa-fardo-5080007-por-kg__original_afb3eb3f.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000015014",
+        "quality": "poor",
+        "width": 372,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_dd7df091",
+        "file": "saco-plastico-bd-capa-fardo-5080007-por-kg__ai_gen_dd7df091.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000015014",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-200l-preto-90115012-por-kg",
+    "name": "Saco Lixo 200L Preto (90×115×012) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_50c2d467",
+    "images": [
+      {
+        "id": "original_50873298",
+        "file": "saco-lixo-200l-preto-90115012-por-kg__original_50873298.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000012808",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_50c2d467",
+        "file": "saco-lixo-200l-preto-90115012-por-kg__ai_gen_50c2d467.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000012808",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-15l-amarelo-3958004",
+    "name": "Saco Lixo 15L Amarelo (39×58×004)",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_6166da7f",
+    "images": [
+      {
+        "id": "original_5cc812cb",
+        "file": "saco-lixo-15l-amarelo-3958004__original_5cc812cb.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000008511",
+        "quality": "good",
+        "width": 1080,
+        "height": 1080,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_6166da7f",
+        "file": "saco-lixo-15l-amarelo-3958004__ai_gen_6166da7f.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000008511",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-30l-preto-5962005-por-kg",
+    "name": "Saco Lixo 30L Preto (59×62×005) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_5cf3cec2",
+    "images": [
+      {
+        "id": "original_ba54e4b7",
+        "file": "saco-lixo-30l-preto-5962005-por-kg__original_ba54e4b7.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000005206",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_5cf3cec2",
+        "file": "saco-lixo-30l-preto-5962005-por-kg__ai_gen_5cf3cec2.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000005206",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-60l-preto-7585006-por-kg",
+    "name": "Saco Lixo 60L Preto (75×85×006) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_0c54db80",
+    "images": [
+      {
+        "id": "original_48006ef8",
+        "file": "saco-lixo-60l-preto-7585006-por-kg__original_48006ef8.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000001673",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_0c54db80",
+        "file": "saco-lixo-60l-preto-7585006-por-kg__ai_gen_0c54db80.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000001673",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-bd-100l-branco-75105012-por-kg",
+    "name": "Saco Lixo BD 100L Branco (75×105×012) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_065b3ffa",
+    "images": [
+      {
+        "id": "original_5f7ca809",
+        "file": "saco-lixo-bd-100l-branco-75105012-por-kg__original_5f7ca809.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7000000001185",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_065b3ffa",
+        "file": "saco-lixo-bd-100l-branco-75105012-por-kg__ai_gen_065b3ffa.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "7000000001185",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-bd-100l-branco-7585006-por-kg",
+    "name": "Saco Lixo BD 100L Branco (75×85×006) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_7f4ad800",
+    "images": [
+      {
+        "id": "original_28d7f5e9",
+        "file": "saco-lixo-bd-100l-branco-7585006-por-kg__original_28d7f5e9.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0058660018729",
+        "quality": "warn",
+        "width": 560,
+        "height": 560,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_7f4ad800",
+        "file": "saco-lixo-bd-100l-branco-7585006-por-kg__ai_gen_7f4ad800.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "0058660018729",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "saco-lixo-bd-100l-branco-75105006-por-kg",
+    "name": "Saco Lixo BD 100L Branco (75×105×006) - por kg",
+    "brand": "",
+    "category": "Sacos de Lixo",
+    "main_id": "ai_gen_b71dbe32",
+    "images": [
+      {
+        "id": "original_08067d36",
+        "file": "saco-lixo-bd-100l-branco-75105006-por-kg__original_08067d36.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "0058660018460",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_b71dbe32",
+        "file": "saco-lixo-bd-100l-branco-75105006-por-kg__ai_gen_b71dbe32.jpg",
+        "source": "ai_gen",
+        "archetype": "studio",
+        "sku": "0058660018460",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "luva-de-plastico-inoven",
+    "name": "Luva De Plástico INOVEN",
+    "brand": "INOVEN",
+    "category": "Luvas",
+    "main_id": "ai_gen_8d323d4c",
+    "images": [
+      {
+        "id": "original_f4f49d21",
+        "file": "luva-de-plastico-inoven__original_f4f49d21.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898964629831",
+        "quality": "poor",
+        "width": 336,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "scraped_6009d4f6",
+        "file": "luva-de-plastico-inoven__scraped_6009d4f6.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898964629831",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_8d323d4c",
+        "file": "luva-de-plastico-inoven__ai_gen_8d323d4c.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": "7898964629831",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      },
+      {
+        "id": "ai_gen_ac64c337",
+        "file": "luva-de-plastico-inoven__ai_gen_ac64c337.jpg",
+        "source": "ai_gen",
+        "archetype": "lifestyle",
+        "sku": "7898964629831",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-higienico-branco-600m-nobreza",
+    "name": "Papel Higiênico Branco 600m NOBREZA",
+    "brand": "NOBREZA",
+    "category": "Papel Higiênico",
+    "main_id": "original_d2a5ad2c",
+    "images": [
+      {
+        "id": "original_d2a5ad2c",
+        "file": "papel-higienico-branco-600m-nobreza__original_d2a5ad2c.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910168957",
+        "quality": "warn",
+        "width": 560,
+        "height": 560,
+        "is_main": true
+      },
+      {
+        "id": "scraped_a0d2f7b8",
+        "file": "papel-higienico-branco-600m-nobreza__scraped_a0d2f7b8.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910168957",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-100-celulose-7050cm-seccar",
+    "name": "Papel Lençol 100% Celulose (70×50cm) SECCAR",
+    "brand": "SECCAR",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "original_fd750717",
+    "images": [
+      {
+        "id": "original_fd750717",
+        "file": "papel-lencol-100-celulose-7050cm-seccar__original_fd750717.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910168926",
+        "quality": "good",
+        "width": 1200,
+        "height": 1200,
+        "is_main": true
+      },
+      {
+        "id": "scraped_223808b7",
+        "file": "papel-lencol-100-celulose-7050cm-seccar__scraped_223808b7.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910168926",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-100-celulose-5050cm-realeza",
+    "name": "Papel Lençol 100% Celulose (50×50cm) REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "scraped_9922676d",
+    "images": [
+      {
+        "id": "original_8a711a40",
+        "file": "papel-lencol-100-celulose-5050cm-realeza__original_8a711a40.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910168889",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": false
+      },
+      {
+        "id": "scraped_9922676d",
+        "file": "papel-lencol-100-celulose-5050cm-realeza__scraped_9922676d.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910168889",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "toalha-papel-extra-branca-realeza",
+    "name": "Toalha Papel Extra Branca REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Toalha",
+    "main_id": "scraped_71b108f1",
+    "images": [
+      {
+        "id": "original_352431e9",
+        "file": "toalha-papel-extra-branca-realeza__original_352431e9.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167981",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": false
+      },
+      {
+        "id": "scraped_71b108f1",
+        "file": "toalha-papel-extra-branca-realeza__scraped_71b108f1.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167981",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "toalha-papel-22-5x21-branca-realeza",
+    "name": "Toalha Papel 22.5X21 Branca REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Toalha",
+    "main_id": "original_9b0490cc",
+    "images": [
+      {
+        "id": "original_9b0490cc",
+        "file": "toalha-papel-22-5x21-branca-realeza__original_9b0490cc.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167899",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": true
+      },
+      {
+        "id": "scraped_986b3b12",
+        "file": "toalha-papel-22-5x21-branca-realeza__scraped_986b3b12.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167899",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "toalha-papel-100-celulose-branca-realeza",
+    "name": "Toalha Papel 100% Celulose Branca REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Toalha",
+    "main_id": "original_68dfa296",
+    "images": [
+      {
+        "id": "original_68dfa296",
+        "file": "toalha-papel-100-celulose-branca-realeza__original_68dfa296.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167875",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": true
+      },
+      {
+        "id": "scraped_76e1c5bf",
+        "file": "toalha-papel-100-celulose-branca-realeza__scraped_76e1c5bf.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167875",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "toalha-papel-branca-2021cm-nobreza",
+    "name": "Toalha Papel Branca (20×21cm) NOBREZA",
+    "brand": "NOBREZA",
+    "category": "Papel Toalha",
+    "main_id": "original_dfb2b652",
+    "images": [
+      {
+        "id": "original_dfb2b652",
+        "file": "toalha-papel-branca-2021cm-nobreza__original_dfb2b652.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167790",
+        "quality": "warn",
+        "width": 500,
+        "height": 500,
+        "is_main": true
+      },
+      {
+        "id": "scraped_0d284ce3",
+        "file": "toalha-papel-branca-2021cm-nobreza__scraped_0d284ce3.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167790",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-branco-7050cm-nobreza",
+    "name": "Papel Lençol Branco (70×50cm) NOBREZA",
+    "brand": "NOBREZA",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "original_4881f6bc",
+    "images": [
+      {
+        "id": "original_4881f6bc",
+        "file": "papel-lencol-branco-7050cm-nobreza__original_4881f6bc.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167752",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      },
+      {
+        "id": "scraped_2d50cf1b",
+        "file": "papel-lencol-branco-7050cm-nobreza__scraped_2d50cf1b.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167752",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-branco-5050cm-nobreza",
+    "name": "Papel Lençol Branco (50×50cm) NOBREZA",
+    "brand": "NOBREZA",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "scraped_2a60b121",
+    "images": [
+      {
+        "id": "original_7961694f",
+        "file": "papel-lencol-branco-5050cm-nobreza__original_7961694f.png",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167745",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      },
+      {
+        "id": "scraped_2a60b121",
+        "file": "papel-lencol-branco-5050cm-nobreza__scraped_2a60b121.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167745",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "papel-interfolhado-branco-seccar",
+    "name": "Papel Interfolhado Branco SECCAR",
+    "brand": "SECCAR",
+    "category": "Papel Toalha",
+    "main_id": "original_c35a9f43",
+    "images": [
+      {
+        "id": "original_c35a9f43",
+        "file": "papel-interfolhado-branco-seccar__original_c35a9f43.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167561",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      },
+      {
+        "id": "scraped_bb42592d",
+        "file": "papel-interfolhado-branco-seccar__scraped_bb42592d.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167561",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "toalha-papel-extra-luxo-20cm-200m-seccar",
+    "name": "Toalha Papel Extra Luxo 20cm × 200m SECCAR",
+    "brand": "SECCAR",
+    "category": "Papel Toalha",
+    "main_id": "scraped_66e9f210",
+    "images": [
+      {
+        "id": "original_3a4ce0ed",
+        "file": "toalha-papel-extra-luxo-20cm-200m-seccar__original_3a4ce0ed.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167424",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_66e9f210",
+        "file": "toalha-papel-extra-luxo-20cm-200m-seccar__scraped_66e9f210.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167424",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "toalha-papel-branca-20cm-200m-seccar",
+    "name": "Toalha Papel Branca 20cm × 200m SECCAR",
+    "brand": "SECCAR",
+    "category": "Papel Toalha",
+    "main_id": "scraped_af33483d",
+    "images": [
+      {
+        "id": "original_bce841fb",
+        "file": "toalha-papel-branca-20cm-200m-seccar__original_bce841fb.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167417",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      },
+      {
+        "id": "scraped_af33483d",
+        "file": "toalha-papel-branca-20cm-200m-seccar__scraped_af33483d.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167417",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": true
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-branco-7050cm-seccar",
+    "name": "Papel Lençol Branco (70×50cm) SECCAR",
+    "brand": "SECCAR",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "original_81047489",
+    "images": [
+      {
+        "id": "original_81047489",
+        "file": "papel-lencol-branco-7050cm-seccar__original_81047489.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167370",
+        "quality": "warn",
+        "width": 500,
+        "height": 500,
+        "is_main": true
+      },
+      {
+        "id": "scraped_121ff7f6",
+        "file": "papel-lencol-branco-7050cm-seccar__scraped_121ff7f6.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167370",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-extra-luxo-7050cm-realeza",
+    "name": "Papel Lençol Extra Luxo (70×50cm) REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "original_9ce0c2c2",
+    "images": [
+      {
+        "id": "original_9ce0c2c2",
+        "file": "papel-lencol-extra-luxo-7050cm-realeza__original_9ce0c2c2.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167257",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": true
+      },
+      {
+        "id": "scraped_d05a18a3",
+        "file": "papel-lencol-extra-luxo-7050cm-realeza__scraped_d05a18a3.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167257",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-extra-luxo-5050cm-realeza",
+    "name": "Papel Lençol Extra Luxo (50×50cm) REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "original_845634ad",
+    "images": [
+      {
+        "id": "original_845634ad",
+        "file": "papel-lencol-extra-luxo-5050cm-realeza__original_845634ad.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167165",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": true
+      },
+      {
+        "id": "scraped_43b23fd3",
+        "file": "papel-lencol-extra-luxo-5050cm-realeza__scraped_43b23fd3.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167165",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-lencol-branco-5050cm-realeza",
+    "name": "Papel Lençol Branco (50×50cm) REALEZA",
+    "brand": "REALEZA",
+    "category": "Papel Lençol Hospitalar",
+    "main_id": "original_80453993",
+    "images": [
+      {
+        "id": "original_80453993",
+        "file": "papel-lencol-branco-5050cm-realeza__original_80453993.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167141",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": true
+      },
+      {
+        "id": "scraped_fe7b39ec",
+        "file": "papel-lencol-branco-5050cm-realeza__scraped_fe7b39ec.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167141",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "papel-higienico-branco-300m-nobreza",
+    "name": "Papel Higiênico Branco 300m NOBREZA",
+    "brand": "NOBREZA",
+    "category": "Papel Higiênico",
+    "main_id": "original_ffd06748",
+    "images": [
+      {
+        "id": "original_ffd06748",
+        "file": "papel-higienico-branco-300m-nobreza__original_ffd06748.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898910167011",
+        "quality": "warn",
+        "width": 560,
+        "height": 560,
+        "is_main": true
+      },
+      {
+        "id": "scraped_c557347c",
+        "file": "papel-higienico-branco-300m-nobreza__scraped_c557347c.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898910167011",
+        "quality": "poor",
+        "width": 292,
+        "height": 292,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "avental-plastico-110x70cm-vabene",
+    "name": "Avental Plástico 110X70CM VABENE",
+    "brand": "VABENE",
+    "category": "EPI - Máscaras, Toucas e Aventais",
+    "main_id": "original_22b8c402",
+    "images": [
+      {
+        "id": "original_22b8c402",
+        "file": "avental-plastico-110x70cm-vabene__original_22b8c402.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898546006326",
+        "quality": "poor",
+        "width": 470,
+        "height": 470,
+        "is_main": true
+      },
+      {
+        "id": "scraped_4a4efa4f",
+        "file": "avental-plastico-110x70cm-vabene__scraped_4a4efa4f.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898546006326",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "mascara-tripla-descarpack",
+    "name": "Máscara Tripla DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "EPI - Máscaras, Toucas e Aventais",
+    "main_id": "original_38adae99",
+    "images": [
+      {
+        "id": "original_38adae99",
+        "file": "mascara-tripla-descarpack__original_38adae99.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283815182",
+        "quality": "good",
+        "width": 800,
+        "height": 800,
+        "is_main": true
+      },
+      {
+        "id": "scraped_7269e721",
+        "file": "mascara-tripla-descarpack__scraped_7269e721.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283815182",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": false
+      },
+      {
+        "id": "scraped_025540e7",
+        "file": "mascara-tripla-descarpack__scraped_025540e7.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283815182",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "avental-descartavel-manga-longa-descarpack",
+    "name": "Avental Descartável Manga Longa DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "EPI - Máscaras, Toucas e Aventais",
+    "main_id": "ai_gen_32c083b7",
+    "images": [
+      {
+        "id": "original_09e14e4b",
+        "file": "avental-descartavel-manga-longa-descarpack__original_09e14e4b.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283815144",
+        "quality": "good",
+        "width": 816,
+        "height": 813,
+        "is_main": false
+      },
+      {
+        "id": "scraped_5619ac09",
+        "file": "avental-descartavel-manga-longa-descarpack__scraped_5619ac09.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283815144",
+        "quality": "poor",
+        "width": 450,
+        "height": 450,
+        "is_main": false
+      },
+      {
+        "id": "ai_gen_32c083b7",
+        "file": "avental-descartavel-manga-longa-descarpack__ai_gen_32c083b7.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": "7898283815144",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": true
+      },
+      {
+        "id": "ai_gen_3d888bfe",
+        "file": "avental-descartavel-manga-longa-descarpack__ai_gen_3d888bfe.jpg",
+        "source": "ai_gen",
+        "archetype": "enhanced",
+        "sku": "7898283815144",
+        "quality": "good",
+        "width": 1024,
+        "height": 1024,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "touca-branca-descarpack",
+    "name": "Touca Branca DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "EPI - Máscaras, Toucas e Aventais",
+    "main_id": "original_f3932dd1",
+    "images": [
+      {
+        "id": "original_f3932dd1",
+        "file": "touca-branca-descarpack__original_f3932dd1.jpg",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814888",
+        "quality": "good",
+        "width": 1000,
+        "height": 1000,
+        "is_main": true
+      },
+      {
+        "id": "scraped_8558c63c",
+        "file": "touca-branca-descarpack__scraped_8558c63c.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283814888",
+        "quality": "warn",
+        "width": 600,
+        "height": 600,
+        "is_main": false
+      }
+    ]
+  },
+  {
+    "handle": "luva-de-plastico-descarpack",
+    "name": "Luva De Plástico DESCARPACK",
+    "brand": "DESCARPACK",
+    "category": "Luvas",
+    "main_id": "scraped_c3c6205d",
+    "images": [
+      {
+        "id": "original_5af322dd",
+        "file": "luva-de-plastico-descarpack__original_5af322dd.webp",
+        "source": "original",
+        "archetype": "studio",
+        "sku": "7898283814642",
+        "quality": "poor",
+        "width": 336,
+        "height": 500,
+        "is_main": false
+      },
+      {
+        "id": "scraped_c3c6205d",
+        "file": "luva-de-plastico-descarpack__scraped_c3c6205d.jpg",
+        "source": "scraped",
+        "archetype": "studio",
+        "sku": "7898283814642",
+        "quality": "warn",
+        "width": 740,
+        "height": 731,
+        "is_main": true
+      }
+    ]
+  }
+]
